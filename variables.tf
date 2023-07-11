@@ -16,6 +16,6 @@ variable "team" {
 variable "aws_region" {
   description = "aws region"
   type        = string
-  default     = "us-east-1"
+  default     = "sa-east-1"
 
 }
